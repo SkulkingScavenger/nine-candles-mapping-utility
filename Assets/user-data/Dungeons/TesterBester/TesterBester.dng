@@ -1,0 +1,63 @@
+"Dungeon" : {
+	"name" : "The Dungeon",
+	"gameSystemIndex" : 0,
+	"width" : 30,
+	"height" : 20,
+	"tilesetIndex" : 0,
+	"floors" : [
+		{
+			"description" : "",
+			"rooms" : [
+			]
+		}
+	],
+	"monsters" : [
+		{
+			"systemID" : 1,
+			"gameSystemIndex" : 0,
+			"name" : "\"",
+			"description" : "",
+			"hitdice" : 
+			{
+				"diceCount" : 1,
+				"faceCount" : 6,
+				"modifier" : 0
+			}
+			,
+			"monsterType" : 0,
+			"size" : 4,
+			"initiativeModifier" : 0,
+			"movementSpeed" :[
+				30,
+				0,
+				0,
+				0,
+			],
+			"armorClass" : 10,
+			"challengeRating" : 1,
+			"attributes" :[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+			],
+			"savingThrows" :[
+				0,
+				0,
+				0,
+			],
+		}
+	],
+	"artifacts" : [
+	],
+	"treasures" : [
+	],
+	"traps" : [
+	],
+	"dungeonFeatures" : [
+	],
+	"randomTables" : [
+	],
+}

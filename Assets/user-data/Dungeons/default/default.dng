@@ -1,0 +1,547 @@
+"Dungeon" : {
+	"name" : "Lost Kingdom of Sherab",
+	"gameSystemIndex" : 0,
+	"width" : 30,
+	"height" : 20,
+	"tilesetIndex" : 0,
+	"floors" : [
+		{
+			"description" : "",
+			"rooms" : [
+				{
+					"name" : "",
+					"description" : "",
+					"cells" : [
+						{
+							"x" : 3,
+							"y" : 3,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 2,
+							"y" : 3,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 2,
+							"y" : 2,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 3,
+							"y" : 2,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 3,
+							"y" : 4,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 2,
+							"y" : 4,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 2,
+							"y" : 5,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 3,
+							"y" : 5,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 4,
+							"y" : 4,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 4,
+							"y" : 3,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 4,
+							"y" : 2,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 4,
+							"y" : 5,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 4,
+							"y" : 6,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 3,
+							"y" : 6,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 2,
+							"y" : 6,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						}
+					]
+				},
+				{
+					"name" : "",
+					"description" : "",
+					"cells" : [
+						{
+							"x" : 3,
+							"y" : 7,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 3,
+							"y" : 8,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 3,
+							"y" : 9,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 4,
+							"y" : 9,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 4,
+							"y" : 8,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 4,
+							"y" : 7,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						}
+					]
+				},
+				{
+					"name" : "",
+					"description" : "",
+					"cells" : [
+						{
+							"x" : 5,
+							"y" : 4,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 6,
+							"y" : 4,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 7,
+							"y" : 4,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 7,
+							"y" : 3,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 6,
+							"y" : 3,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 5,
+							"y" : 3,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						}
+					]
+				},
+				{
+					"name" : "",
+					"description" : "",
+					"cells" : [
+						{
+							"x" : 6,
+							"y" : 5,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 5,
+							"y" : 5,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 5,
+							"y" : 6,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 5,
+							"y" : 7,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 6,
+							"y" : 7,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 7,
+							"y" : 7,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 7,
+							"y" : 6,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 7,
+							"y" : 5,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 6,
+							"y" : 6,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 8,
+							"y" : 6,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 8,
+							"y" : 5,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 8,
+							"y" : 7,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"monsters" : [
+		{
+			"systemID" : 1,
+			"gameSystemIndex" : 0,
+			"name" : "Crazed Gremlin",
+			"description" : "",
+			"hitdice" : 
+			{
+				"diceCount" : 1,
+				"faceCount" : 6,
+				"modifier" : 0
+			}
+			,
+			"monsterType" : 0,
+			"size" : 4,
+			"initiativeModifier" : 0,
+			"movementSpeed" :[
+				30,
+				0,
+				0,
+				0,
+			],
+			"armorClass" : 10,
+			"challengeRating" : 1,
+			"attributes" :[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+			],
+			"savingThrows" :[
+				0,
+				0,
+				0,
+			],
+		}
+	],
+	"dungeonFeatures" : [
+	],
+}

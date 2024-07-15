@@ -1,0 +1,434 @@
+"Dungeon" : {
+	"name" : "The Super Dungeon",
+	"gameSystemIndex" : 0,
+	"width" : 60,
+	"height" : 40,
+	"tilesetIndex" : 0,
+	"floors" : [
+		{
+			"description" : "",
+			"rooms" : [
+				{
+					"name" : "",
+					"description" : "",
+					"descriptionPlayer" : "",
+					"descriptionTreasure" : "",
+					"cells" : [
+						{
+							"x" : 24,
+							"y" : 17,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 25,
+							"y" : 17,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 26,
+							"y" : 17,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 27,
+							"y" : 17,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 28,
+							"y" : 17,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 28,
+							"y" : 16,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 28,
+							"y" : 15,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 28,
+							"y" : 14,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 28,
+							"y" : 13,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 28,
+							"y" : 12,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 27,
+							"y" : 12,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 26,
+							"y" : 12,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 26,
+							"y" : 13,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								true,
+								false
+							]
+						},
+						{
+							"x" : 27,
+							"y" : 13,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 27,
+							"y" : 14,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 27,
+							"y" : 16,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 26,
+							"y" : 16,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 26,
+							"y" : 15,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 27,
+							"y" : 15,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 26,
+							"y" : 14,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						}
+					]
+				},
+				{
+					"name" : "",
+					"description" : "",
+					"descriptionPlayer" : "",
+					"descriptionTreasure" : "",
+					"cells" : [
+						{
+							"x" : 23,
+							"y" : 14,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 24,
+							"y" : 14,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 24,
+							"y" : 13,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 25,
+							"y" : 13,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								true,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 25,
+							"y" : 14,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 23,
+							"y" : 13,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 24,
+							"y" : 12,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 25,
+							"y" : 12,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"monsters" : [
+		{
+			"systemID" : 1,
+			"gameSystemIndex" : 0,
+			"name" : "Goblin",
+			"description" : "spooky goblin!",
+			"hitdice" : 
+			{
+				"diceCount" : 1,
+				"faceCount" : 6,
+				"modifier" : 0
+			}
+			,
+			"monsterType" : 0,
+			"size" : 4,
+			"initiativeModifier" : 0,
+			"movementSpeed" :[
+				30,
+				0,
+				0,
+				0,
+			],
+			"armorClass" : 10,
+			"challengeRating" : 1,
+			"attacks" :[
+				{
+					"name" : "Morningstar",
+					"toHitModifier" : 3,
+					"damage" : 
+					{
+						"diceCount" : 1,
+						"faceCount" : 12,
+						"modifier" : 0
+					}
+					,
+				}
+			],
+			"specialAttacks" :[
+			],
+			"specialQualities" :[
+			],
+			"feats" :[
+			],
+			"attributes" :[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+			],
+			"savingThrows" :[
+				0,
+				0,
+				0,
+			],
+		}
+	],
+	"artifacts" : [
+	],
+	"treasures" : [
+	],
+	"traps" : [
+	],
+	"dungeonFeatures" : [
+	],
+	"randomTables" : [
+	],
+}

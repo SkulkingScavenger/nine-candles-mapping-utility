@@ -1,0 +1,337 @@
+"Dungeon" : {
+	"name" : "The Dungeon",
+	"gameSystemIndex" : 0,
+	"width" : 30,
+	"height" : 20,
+	"tilesetIndex" : 0,
+	"floors" : [
+		{
+			"description" : "",
+			"rooms" : [
+				{
+					"name" : "",
+					"description" : "This room, oh geez, its got so many gremlins. Poor players. they have no clue. these gremlins have 500 HP each. they will destroy them. prepare for player rage unlike anything you\'ve ever known, because the party is about to get 
+WIPED
+OUT
+. ",
+					"descriptionPlayer" : "You enter a room chock full of gremlins. What doth thou doest?",
+					"descriptionTreasure" : "",
+					"cells" : [
+						{
+							"x" : 3,
+							"y" : 2,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 3,
+							"y" : 3,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 3,
+							"y" : 4,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 4,
+							"y" : 4,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 4,
+							"y" : 5,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 5,
+							"y" : 4,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 5,
+							"y" : 3,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 5,
+							"y" : 2,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 4,
+							"y" : 2,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 1,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						},
+						{
+							"x" : 4,
+							"y" : 3,
+							"dungeonFeatureID" : 0,
+							"monsterID" : 0,
+							"edges" : [
+								false,
+								false,
+								false,
+								false
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"monsters" : [
+		{
+			"systemID" : 1,
+			"gameSystemIndex" : 0,
+			"name" : "gremlim",
+			"description" : "Its the Gremlin!",
+			"hitdice" : 
+			{
+				"diceCount" : 1,
+				"faceCount" : 6,
+				"modifier" : 0
+			}
+			,
+			"monsterType" : 0,
+			"size" : 3,
+			"initiativeModifier" : 6,
+			"movementSpeed" :[
+				30,
+				1,
+				2,
+				3,
+			],
+			"armorClass" : 15,
+			"challengeRating" : 2,
+			"attacks" :[
+				{
+					"name" : "Longsword",
+					"toHitModifier" : 0,
+					"damage" : 
+					{
+						"diceCount" : 1,
+						"faceCount" : 6,
+						"modifier" : 0
+					}
+					,
+				}
+			],
+			"specialAttacks" :[
+				{
+					"name" : "asdg",
+					"description" : "",
+				}
+			],
+			"specialQualities" :[
+				{
+					"name" : "qwer",
+					"description" : "",
+				}
+			],
+			"feats" :[
+			],
+			"attributes" :[
+				16,
+				13,
+				14,
+				15,
+				16,
+				12,
+			],
+			"savingThrows" :[
+				7,
+				80,
+				8,
+			],
+		},
+		{
+			"systemID" : 2,
+			"gameSystemIndex" : 0,
+			"name" : "Crazy Grandma",
+			"description" : "",
+			"hitdice" : 
+			{
+				"diceCount" : 1,
+				"faceCount" : 6,
+				"modifier" : 0
+			}
+			,
+			"monsterType" : 0,
+			"size" : 4,
+			"initiativeModifier" : 0,
+			"movementSpeed" :[
+				30,
+				0,
+				0,
+				0,
+			],
+			"armorClass" : 10,
+			"challengeRating" : 1,
+			"attacks" :[
+			],
+			"specialAttacks" :[
+			],
+			"specialQualities" :[
+			],
+			"feats" :[
+			],
+			"attributes" :[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+			],
+			"savingThrows" :[
+				0,
+				0,
+				0,
+			],
+		}
+	],
+	"artifacts" : [
+		{
+			"systemID" : 1,
+			"name" : "arty",
+			"description" : "waht a find! \" \' / \\ }{ ][ ,: ,asf .. \"\" \'\'a",
+			"baseMarketPrice" : 0,
+		}
+	],
+	"treasures" : [
+		{
+			"systemID" : 1,
+			"name" : "terry",
+			"description" : "$$$",
+		}
+	],
+	"traps" : [
+		{
+			"systemID" : 1,
+			"name" : "trappu",
+			"searchDC" : 0,
+			"disableDC" : 0,
+			"description" : "sg",
+		}
+	],
+	"dungeonFeatures" : [
+		{
+			"systemID" : 1,
+			"name" : "featy",
+			"description" : "weety",
+		}
+	],
+	"randomTables" : [
+		{
+			"systemID" : 1,
+			"name" : "Random Table",
+			"type" : 0,
+			"range" : 10,
+			"entries" : [
+				{
+					"entry" : "heads",
+					"width" : 5,
+				},
+				{
+					"entry" : "tails",
+					"width" : 5,
+				}
+			]
+		},
+		{
+			"systemID" : 2,
+			"name" : "Random Encounters (Gotham Cities)",
+			"type" : 4,
+			"range" : 10,
+			"entries" : [
+				{
+					"entry" : "1d6 riddlers",
+					"width" : 1,
+				},
+				{
+					"entry" : "1d4 jokers",
+					"width" : 1,
+				},
+				{
+					"entry" : "2d4 mr. freezes",
+					"width" : 3,
+				},
+				{
+					"entry" : "1d6+1 penguins",
+					"width" : 2,
+				},
+				{
+					"entry" : "2d6 poison ivies",
+					"width" : 2,
+				},
+				{
+					"entry" : "1d4 scarecrows",
+					"width" : 1,
+				}
+			]
+		}
+	],
+}
